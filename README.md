@@ -1,7 +1,7 @@
 # NIU-NLU-romanian-restaurants-deepconversational
 Implementation of the understanding layer from Cezanne-ai framework. Adaptation for romanian language, restaurant recommendation and deep conversational based on 3 books.
 
-The final form of this models will be committed in the Open-framework repository together with the other layers of the open-framework
+The final form of this model will be committed in new repository together with the other layers: CPL, NOG/NLG and back-up model
 
 Code implementation in progress.
 
