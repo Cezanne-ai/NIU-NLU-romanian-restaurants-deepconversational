@@ -7,4 +7,4 @@ Code implementation in progress.
 
 Possible commit date: TBD.
 
-Please check for details: Project-documentation repository (Cezanne-ai project file) and the research paper "Cezanne-ai: a conversational AI framework for emerging languages and limited data".
+Please check for details: Project-documentation repository (Cezanne-ai project file) and the research paper "Cezanne-ai: a conversational AI framework for emerging languages and limited data" (uploaded in the project documentation repository).
